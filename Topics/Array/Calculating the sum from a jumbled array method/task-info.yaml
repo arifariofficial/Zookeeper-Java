@@ -1,0 +1,18 @@
+type: unsupported
+files:
+  - name: src/Task.java
+    visible: true
+    text: |
+      // This is a parsons task. You can use this editor as a playground
+      
+      public class Task {
+        public static void main(String[] args) {
+          // put your code here
+        }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/34367#comment
+status: Solved
+feedback:
+  time: "Thu, 08 Feb 2024 21:51:06 UTC"
+record: -1

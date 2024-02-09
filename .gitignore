@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Topics/Array/Finding and Printing Unique Integers from an Array/out/
+/Topics/Array/Finding and Printing Unique Integers from an Array/out/production/classes/
+/Zookeeper with Java/task/build/
